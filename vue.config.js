@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   // devServer: {
-  //   disableHostCheck: true,
+  //   disableHostCheck: tru6e,
   // },
   publicPath: '/',
   lintOnSave: false,
